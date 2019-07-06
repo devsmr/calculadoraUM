@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Calculadora_Clase</string>
     <string name="saludo">hola mundo</string>
+    <string name="titulo">calculadora</string>
+    <string name="label_numero_uno">Digite numero uno</string>
+    <string name="label_numero_dos">Digite Numero dos</string>
 </resources>
