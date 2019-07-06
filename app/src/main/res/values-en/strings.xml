@@ -14,4 +14,6 @@
     <string name="error_1">Enter the number one</string>
     <string name="error_2">Enter the number two</string>
     <string name="error_3">The denominator can not be zero</string>
+
+
 </resources>
