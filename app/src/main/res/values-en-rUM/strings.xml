@@ -2,4 +2,12 @@
 <resources>
     <string name="app_name">Calculadora_Clase</string>
     <string name="saludo">hello world</string>
+    <string name="titulo">calculator</string>
+    <string name="label_numero_uno">type number one</string>
+    <string name="label_numero_dos">type number two</string>
+    <string name="limpiar">clear</string>
+    <string name="suma">sum</string>
+    <string name="resta">subtraction</string>
+    <string name="multiplicacion">multiplication</string>
+    <string name="division">division</string>
 </resources>
